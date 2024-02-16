@@ -6,31 +6,24 @@
 
 I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in React, Vuejs, Nextjs, Nodejs, MongoDB, etc. 
 
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+Feel free to connect with me [maaroufimouad00@gmail.com](mailto:maaroufimouad00@gmail.com) for all things tech or just to say hello! Let's shape the future of tech together.
 
-Joined Github **5** years ago.
-
-Since then I pushed **2944**+ commits, opened **229**+ issues, submitted **375**+ pull requests, created **20**+ gists and contributed to **9**+ public repositories.
-
-Like My Work?
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="200" />
 
 ### Talking about Personal Stuff:
 
 - 🌍 &nbsp; I'm based in Morocco, Rabat.
-- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
-- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 🛠 &nbsp; I’m currently working with Next, Nest, etc.
+- 🚀 &nbsp; I’m currently exploring Remix, AI, etc.
 - 👯 &nbsp; I'm looking to collaborate on any projects.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: [maaroufimouad00@gmail.com](mailto:maaroufimouad00@gmail.com).
+- 📫 &nbsp; Reach me out: [maaroufimouad00@gmail.com](mailto:maaroufimouad00@gmail.com)
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
