@@ -18,14 +18,14 @@ Since then I pushed **2944**+ commits, opened **229**+ issues, submitted **375**
 
 Like My Work?
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="200" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="220" />
 
 ### Talking about Personal Stuff:
 
 - 🌍 &nbsp; I'm based in Morocco, Rabat.
 - 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
 - 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
-- 👯 &nbsp; I'm looking to collaborate on any projects.
+- 👯 &nbsp; I'm looking to collaborate on any project which piques my interest.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: [maaroufimouad00@gmail.com](mailto:maaroufimouad00@gmail.com).
 
