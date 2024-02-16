@@ -12,7 +12,7 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart. Whe
 
 Feel free to connect with me [maaroufimouad00@gmail.com](mailto:maaroufimouad00@gmail.com) for all things tech or just to say hello! Let's shape the future of tech together.
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="380" height="200" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
 
 ### Talking about Personal Stuff:
 
