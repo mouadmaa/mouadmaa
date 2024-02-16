@@ -1,9 +1,5 @@
 ## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hey there, I'm [Mouad Maaroufi](https://www.mouadmaaroufi.com), glad to see you here!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mouadmaa)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mouad_maa_)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mouad_maa)
-
 
 💻 I'm a Full Stack Web Developer with a strong passion 💪 for problem-solving and pioneering first-principle thinking 🧠. My creativity 🎨 and adaptability 🔄 are driven by purpose 🎯 and fueled by the challenge of finding innovative solutions 💡.
 
@@ -12,6 +8,10 @@
 🕹️ When I'm not immersed in code, you'll find me 🎥 watching tech-related YouTube videos, constantly ⛽ fueling my curiosity and expanding my 🧠 knowledge.
 
 📧 Feel free to connect with me at maaroufimouad00@gmail.com for all things tech 💻 or just to say hello! 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mouadmaa)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mouad_maa_)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mouad_maa)
 
 #
 
