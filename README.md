@@ -1,14 +1,14 @@
-## Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm [Mouad Maaroufi](https://www.mouadmaaroufi.com), Glad to see you here!
+## Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm [Mouad Maaroufi](https://www.mouadmaaroufi.com), glad to see you here!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mouadmaa)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mouad_maa_)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mouad_maa)
 
-I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
+#### I am a Full Stack Developer
 
-I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in React, Vuejs, Nextjs, Nodejs, MongoDB, etc. 
+I have a passion for problem-solving and pioneering first-principle thinking, creativity, and adaptability, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Reactjs, Nodejs, MongoDB, etc.
 
-I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+I'm an explorer of new tech, an avid learner. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
 Feel free to connect with me [maaroufimouad00@gmail.com](mailto:maaroufimouad00@gmail.com) for all things tech or just to say hello! Let's shape the future of tech together.
 
