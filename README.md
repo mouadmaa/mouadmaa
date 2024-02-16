@@ -1,21 +1,33 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mouad Maa
-=================================================================================================================================
+## Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm [Mouad Maaroufi](https://www.mouadmaaroufi.com), Glad to see you here!
 
-Web Developer
--------------
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mouadmaa)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mouad_maa_)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mouad_maa)
 
-i am i full stack developer with an ambition to continue learning 😁
+I am a Full Stack Developer currently leading the Tech at MyWays.ai with a mission to revolutionize how the world hires with AI. 🚀
 
-* 🌍  I'm based in Morocco, Rabat
-* ✉️  You can contact me at [maaroufimouad00@gmail.com](mailto:maaroufimouad00@gmail.com)
-* 🧠  I'm learning Supabase
-* 🤝  I'm open to collaborating on any projects
-* ⚡  I'm secretly Ninja... but don't tell anyone
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I've led diverse tech teams covering Frontend, Backend, Machine Learning and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
 
-<a href="https://www.github.com/mouadmaa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mouadmaa?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/mouad_maa" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/mouad_maa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
+
+Feel free to connect with me @iampavangandhi for all things tech or just to say hello! Let's shape the future of tech together. 🌟
+
+Joined Github **5** years ago.
+
+Since then I pushed **2944**+ commits, opened **229**+ issues, submitted **375**+ pull requests, created **20**+ gists and contributed to **9**+ public repositories.
+
+Like My Work?
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+### Talking about Personal Stuff:
+
+- 🌍 &nbsp; I'm based in Morocco, Rabat.
+- 🛠 &nbsp; I’m currently working with JS, TS, AWS, etc.
+- 🚀 &nbsp; I’m currently exploring ML, Gen AI, LLMs, etc.
+- 👯 &nbsp; I'm looking to collaborate on any projects.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 📫 &nbsp; Reach me out: [maaroufimouad00@gmail.com](mailto:maaroufimouad00@gmail.com).
 
 ### Skills
 
