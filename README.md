@@ -13,6 +13,8 @@
 
 📧 Feel free to connect with me at maaroufimouad00@gmail.com for all things tech 💻 or just to say hello! 👋
 
+#
+
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="200" />
 
 ### Talking about Personal Stuff:
@@ -23,6 +25,8 @@
 - 👯 &nbsp; I'm looking to collaborate on any projects.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: [maaroufimouad00@gmail.com](mailto:maaroufimouad00@gmail.com)
+
+#
 
 ### Languages and Tools:
 
